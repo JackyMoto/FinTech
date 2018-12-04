@@ -6,7 +6,6 @@
 
 **信贷系统的一些审批结点信息需要控制核心业务的账务处理**，如合同建立、放款等都需要信贷系统按照核心系统的通讯接口方式向核心发起业务（客户信息查询，合同录入，借据录入等），请求核心处理。
 
-
 ![image](https://raw.githubusercontent.com/jackymoto/credit.github.io/master/pic/v2-858c58cfa51bc0fcde354b78f5e1b6bc_hd.png)
 
 对于各个商业银行的IT能力的不同，又分为：
